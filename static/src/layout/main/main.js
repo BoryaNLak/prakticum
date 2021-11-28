@@ -1,5 +1,4 @@
 import tmpl from './main.tml';
-import Handlebars from 'handlebars';
 
 import NotFoundPage from '../../pages/error/notFound';
 import ServerNotRespondError from '../../pages/error/serverNotRespond';
